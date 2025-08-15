@@ -1,0 +1,21 @@
+*{
+    margin:  0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(189, 223, 243);
+}
+
+#container{
+    width: 80%;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+#header{
+    height: 110px;
+    background-color: rgb(145, 205, 240);
+    color: black;
+    text-align: center;
+    line-height: 100pxgit ;
+
+}
