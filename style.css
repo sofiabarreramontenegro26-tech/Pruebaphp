@@ -11,6 +11,7 @@ body{
     width: 80%;
     margin: 0px auto;
     border: 1px solid black;
+   
 }
 
 #header{
@@ -62,4 +63,20 @@ body{
 
 #menu a:hover{
     background: rgb(207, 179, 243);
+}
+
+#content{
+    margin: 0px auto; 
+    background: rgb(207, 179, 243);;
+}
+
+/*barra lateral*/
+#lateral{
+    width: 20%;
+    border: 1px solid rgb(149, 78, 241);
+}
+
+#central{
+    width: 80%;
+    border: 1px solid rgb(126, 42, 236);
 }
