@@ -18,7 +18,7 @@ class Usuario{
     public $rol;
     public $imagen;
 
-    function getId_suario(){
+    function getId_usuario(){
         return $this->id_usuario;
     }
 
@@ -27,7 +27,7 @@ class Usuario{
         return $this->nombre;
     }
 
-    
+
     function getApellido(){
         return $this->apellido;
     }
@@ -79,6 +79,11 @@ class Usuario{
 
     public function conseguirTodos(){
         echo "IMPRIMIENDO TODOS LOS USUARIOS...";
+    }
+
+
+    public function crear(){
+
     }
 
 
